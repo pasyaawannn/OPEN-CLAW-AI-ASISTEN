@@ -1,4 +1,4 @@
-import { defineConfig } from "vitest/config";
+import { defineConfig } from "vitest/config"
 import baseConfig from "./vitest.config.ts";
 
 const base = baseConfig as unknown as Record<string, unknown>;
